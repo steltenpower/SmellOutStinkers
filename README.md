@@ -3,6 +3,23 @@ improving combinations of humans, sensors and algorithms to pinpoint sources of 
 
 ## What I wrote elsewhere, dumped here, to be rewritten (in english)
 
+1e doel:
+Generieke visualisatie van lijstje coördinaten (ergens vandaan halen)
+
+2e doel:
+Disclaimer schrijven
+
+3e doel:
+Zorg dat ook niet-nerds coördinaten kunnen toevoegen
+
+4e doel:
+Lijst van mogelijke- toekomstige verbeteringen beginnen
+
+5e doel: stapje voor stapje verbeteren en dat weer communiceren met de wereld om het onderwerp steeds in daglicht te zetten en specifiek ook de daders van deze ontbossing en vergiftiging.
+
+
+---
+
 De beperkte bruikbare data en enorme diversiteit in schoorstenen en hun
 plaatsing maakt het trainen van een herkenningssysteem (momenteel bijna?)
 onmogelijk (een wetenschappelijk onderzoek dat zich beperkte tot hele
