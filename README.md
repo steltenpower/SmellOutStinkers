@@ -1,6 +1,8 @@
 # SmellOutStinkers
 improving combinations of humans, sensors and algorithms to pinpoint sources of what you breath in
 
+![](https://repository-images.githubusercontent.com/494900816/33f0a4ff-0bd0-4098-8a40-6402fee0b350)
+
 ## What I wrote elsewhere, dumped here, to be rewritten (in english)
 
 1e doel:
