@@ -15,10 +15,16 @@ Disclaimer schrijven
 Zorg dat ook niet-nerds coördinaten kunnen toevoegen
 
 4e doel:
-Lijst van mogelijke- toekomstige verbeteringen beginnen
+Lijst van mogelijke toekomstige verbeteringen beginnen
 
 5e doel: stapje voor stapje verbeteren en dat weer communiceren met de wereld om het onderwerp steeds in daglicht te zetten en specifiek ook de daders van deze ontbossing en vergiftiging.
 
+---
+
+highlighters: laser, flashlight, reactants, ...
+sensor carriers: satellite, plane, helicopter, balloon, drone, projectile, (streetview)car, bike, pedestrian, climber, boat, ...
+sensor, for smoke and/or chimney : visible light, infrared, a range of smoke detectors, distance, location, ....
+registers (directly and indirectly, potentially): permits, buildings, ...
 
 ---
 
@@ -71,3 +77,17 @@ ook anders ingezet.
  kunnen mappen en echt geavanceerd (obv allerlei databronnen een goede
  gok
  doen) wil je meer vastleggen dan een paar woonwijken.
+
+---
+
+https://www.samenmetenaanluchtkwaliteit.nl/dataportaal/samen-analyseren-tool
+
+https://sensor.community/en/
+
+https://www.atlasleefomgeving.nl/check-je-plek
+
+https://www.goudappel.nl/nl/expertises/themas/klimaat-en-energie/inzicht-de-uitstoot-van-mobiliteit
+
+https://airtube.info/
+
+
