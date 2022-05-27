@@ -1,5 +1,6 @@
 # SmellOutStinkers
-improving combinations of humans, sensors and algorithms to pinpoint sources of what you breath in
+improving combinations of humans, sensors and algorithms to pinpoint sources of what you breath in.
+Towards an easy webapp to find and confront poluters
 
 ![](https://repository-images.githubusercontent.com/494900816/33f0a4ff-0bd0-4098-8a40-6402fee0b350)
 
