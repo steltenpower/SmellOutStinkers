@@ -95,3 +95,18 @@ https://www.goudappel.nl/nl/expertises/themas/klimaat-en-energie/inzicht-de-uits
 https://airtube.info/
 
 Also see https://github.com/steltenpower/UnchokedNeighborhood
+
+obv satellietfoto's achterhalen bronnen PM2.5 (ultrafijnstof, duizenden doden jaarlijks in NL, waarvan groot deel door hout- en pelletkachels) nu met resolutie van 200m x 200m. #houtrook
+Quote Tweet
+Ruud Steltenpool🤔🔗📊🚲👨‍👩‍👧‍👧💾🌳
+@steltenpower
+ · Aug 2
+"PM2.5 was globally ranked as the fifth mortality risk factor ... While most of the current standard practices can predict levels down to 1 million square meters, the new method is accurate down to 40,000—about the size of eight football fields placed side-by-side." twitter.com/emirhartato/st…
+
+Oh wow, did not expect that PlanetScope daily images can be used to measure air pollution 😮
+https://pratt.duke.edu/about/news/air-pollution-satellites
+
+Another related paper:
+https://mdpi.com/2072-4292/13/15/2981/htm
+
+Interesting!
