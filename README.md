@@ -109,4 +109,4 @@ https://pratt.duke.edu/about/news/air-pollution-satellites
 Another related paper:
 https://mdpi.com/2072-4292/13/15/2981/htm
 
-Interesting!
+https://climatetrace.org/ (van Al Gore e.a.)
