@@ -50,6 +50,7 @@ huisisolatie-plannen)
 (Captcha, om te checken of je wel een echt mens bent), zelfde principe kan
 ook anders ingezet.
 
+- We kunnen alvast beginnen met een data-model voor stoken op een erf: datum, tijd, locatie, houthaard opgeslagen, bewerkt hout, schoorsteen, illegaal gemonteerd, stookt tijdens alert, hoogste buitentemperatuur, ...
 ---
 
 @SensorCommunity
