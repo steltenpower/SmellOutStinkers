@@ -82,7 +82,11 @@ ook anders ingezet.
  kunnen mappen en echt geavanceerd (obv allerlei databronnen een goede
  gok
  doen) wil je meer vastleggen dan een paar woonwijken.
-
+ Over wat mag qua schoorsteen:
+ - https://iplo.nl/regelgeving/regels-voor-activiteiten/technische-bouwactiviteit/rijksregels-bouwactiviteit/technische-bouwregels-houtkachels/
+ - https://www.helpdeskbouwregels.nl/AfbeeldingById/10184
+ - https://www.prefabschoorsteenbouw.nl/wp-content/uploads/2019/10/Installatievoorschriften-.pdf
+ 
 ---
 
 https://www.samenmetenaanluchtkwaliteit.nl/dataportaal/samen-analyseren-tool
