@@ -117,3 +117,5 @@ https://mdpi.com/2072-4292/13/15/2981/htm
 https://climatetrace.org/ (van Al Gore e.a.)
 
 https://mashable.com/article/google-maps-solar-air-quality-pollen-api
+
+Pinpoint locations and concentrations with 'mobile'device ? https://www.deingenieur.nl/artikel/pollensensor-voorspelt-hooikoortsgolf
