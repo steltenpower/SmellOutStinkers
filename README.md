@@ -119,3 +119,5 @@ https://climatetrace.org/ (van Al Gore e.a.)
 https://mashable.com/article/google-maps-solar-air-quality-pollen-api
 
 Pinpoint locations and concentrations with 'mobile'device ? https://www.deingenieur.nl/artikel/pollensensor-voorspelt-hooikoortsgolf
+
+Turn it into a photo-realistic First-Person (Chimney)-Shooter ?
